@@ -31,9 +31,6 @@
 <!-- animated contribution graph, refreshed daily by the workflow -->
 <img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
 
-<!-- GitCric player card -->
-[![GitCric Player Card](https://www.gitcric.me/api/og?username=beno-goulart)](https://www.gitcric.me/beno-goulart)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benogoulart/)
 [![Credly](https://img.shields.io/badge/Credly-FF6B35?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/beno-goulart-campos/edit/badges/credly)
 

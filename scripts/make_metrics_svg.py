@@ -44,7 +44,7 @@ BAR_TOTAL = 25  # chars inside [ ... ]
 FONT = "JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
 
 # ── GitHub API ─────────────────────────────────────────────────────────
-USERNAME = "Beno-Goulart"
+USERNAME = "benogoulart"
 HEADERS = {"Accept": "application/vnd.github+json"}
 TOKEN = os.getenv("GH_TOKEN") or os.getenv("GITHUB_TOKEN")
 if TOKEN:

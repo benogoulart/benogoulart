@@ -43,7 +43,7 @@ ACCENT = "#5B8CFF"
 #    ("bul", text)          -> green dot + light bullet
 #    ("gap",)               -> a little vertical space
 # ===========================================================================
-HOST = "Beno-Goulart"   # shown as  Beno-Goulart@github  in the header
+HOST = "benogoulart"   # shown as  benogoulart@github  in the header
 
 ROWS = [
     ("host",),

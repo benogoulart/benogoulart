@@ -23,7 +23,7 @@ jobs:
 
       - name: Fetch contributions
         env:
-          GH_PROFILE_USER: Beno-Goulart
+          GH_PROFILE_USER: benogoulart
         run: python scripts/fetch_contributions.py
 
       - name: Render heatmap

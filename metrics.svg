@@ -25,7 +25,7 @@
 <animate attributeName="opacity" from="0" to="1" begin="0.35s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.35s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </g>
 <g opacity="0" transform="translate(0,5)">
-<text x="20" y="118" fill="#D6D6D8" font-size="14">  followed by <tspan fill="#73BF69" font-weight="700">14</tspan> users</text>
+<text x="20" y="118" fill="#D6D6D8" font-size="14">  followed by <tspan fill="#73BF69" font-weight="700">16</tspan> users</text>
 <animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.45s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </g>
 <g opacity="0" transform="translate(0,5)">
@@ -37,7 +37,7 @@
 <animate attributeName="opacity" from="0" to="1" begin="0.65s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.65s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </g>
 <g opacity="0" transform="translate(0,5)">
-<text x="20" y="191" fill="#D6D6D8" font-size="14">  <tspan fill="#73BF69" font-weight="700">36</tspan> commits</text>
+<text x="20" y="191" fill="#D6D6D8" font-size="14">  <tspan fill="#73BF69" font-weight="700">30</tspan> commits</text>
 <animate attributeName="opacity" from="0" to="1" begin="0.70s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.70s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </g>
 <g opacity="0" transform="translate(0,5)">
@@ -45,7 +45,7 @@
 <animate attributeName="opacity" from="0" to="1" begin="0.75s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.75s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </g>
 <g opacity="0" transform="translate(0,5)">
-<text x="20" y="231" fill="#D6D6D8" font-size="14">  <tspan fill="#73BF69" font-weight="700">9</tspan> pull requests opened</text>
+<text x="20" y="231" fill="#D6D6D8" font-size="14">  <tspan fill="#73BF69" font-weight="700">10</tspan> pull requests opened</text>
 <animate attributeName="opacity" from="0" to="1" begin="0.80s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.80s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
 </g>
 <g opacity="0" transform="translate(0,5)">

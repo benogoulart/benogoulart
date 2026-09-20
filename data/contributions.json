@@ -1,13 +1,13 @@
 {
   "username": "benogoulart",
-  "generated_at": "2026-09-19T10:33:01Z",
+  "generated_at": "2026-09-20T10:55:27Z",
   "range": {
-    "start": "2025-09-14",
-    "end": "2026-09-19"
+    "start": "2025-09-21",
+    "end": "2026-09-20"
   },
-  "total_contributions": 453,
-  "active_days": 71,
-  "avg_per_active_day": 6.4,
+  "total_contributions": 448,
+  "active_days": 68,
+  "avg_per_active_day": 6.6,
   "current_streak": {
     "length": 0,
     "start": null,
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-09",
-      "total": 5
+      "total": 0
     },
     {
       "month": "2025-10",
@@ -77,34 +77,6 @@
     }
   ],
   "days": [
-    {
-      "date": "2025-09-14",
-      "count": 0
-    },
-    {
-      "date": "2025-09-15",
-      "count": 0
-    },
-    {
-      "date": "2025-09-16",
-      "count": 0
-    },
-    {
-      "date": "2025-09-17",
-      "count": 3
-    },
-    {
-      "date": "2025-09-18",
-      "count": 1
-    },
-    {
-      "date": "2025-09-19",
-      "count": 1
-    },
-    {
-      "date": "2025-09-20",
-      "count": 0
-    },
     {
       "date": "2025-09-21",
       "count": 0
@@ -1559,6 +1531,10 @@
     },
     {
       "date": "2026-09-19",
+      "count": 0
+    },
+    {
+      "date": "2026-09-20",
       "count": 0
     }
   ]
